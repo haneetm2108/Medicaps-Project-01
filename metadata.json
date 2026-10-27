@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - Enterprise HRMS",
+  "description": "Role-based HR management system featuring employee directory, attendance tracking, leave approval workflows, company announcements, and training management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
